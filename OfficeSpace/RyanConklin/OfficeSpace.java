@@ -6,7 +6,7 @@ import java.util.Queue;
 import java.util.Scanner;
 public class OfficeSpace {
 	
-	static short[][] room;//create int array 10,000 x 10,000
+	static short[][] room;//create 2d array of shorts
 	
 	public static void main(String[] args) throws IOException{
 		long startime = System.nanoTime();//used for execution time
